@@ -37,7 +37,7 @@
 				<string>html {
   background-color: #263238;
   color: #EEFFFF;
-  padding: 16px;
+  padding: 0px;
 }
 a {
   color: #B2CCD6;
